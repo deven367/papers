@@ -3,3 +3,6 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
+      - section: models
+        contents:
+          - models/supp_declutr.ipynb
