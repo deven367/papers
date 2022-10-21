@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "papers"
+  site-url: "https://deven367.github.io/papers"
+  description: "a repo for supplementary materials of the papers submitted"
+  repo-branch: master
+  repo-url: "https://github.com/deven367/papers"
