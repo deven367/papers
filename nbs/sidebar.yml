@@ -5,7 +5,11 @@ website:
       - 00_core.ipynb
       - section: AAAI
         contents:
+          - AAAI/master_nb.ipynb
           - AAAI/supp_declutr_aaai.ipynb
+      - section: ACL
+        contents:
+          - ACL/acl paper plots.ipynb
       - section: models
         contents:
           - models/supp_declutr.ipynb

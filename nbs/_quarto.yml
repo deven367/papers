@@ -16,5 +16,7 @@ website:
     search: true
   sidebar:
     style: floating
+    collapse-level: 1
+
 
 metadata-files: [nbdev.yml, sidebar.yml]
