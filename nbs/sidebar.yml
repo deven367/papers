@@ -3,7 +3,12 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
+      - section: AAAI
+        contents:
+          - AAAI/supp_declutr_aaai.ipynb
       - section: models
         contents:
           - models/supp_declutr.ipynb
+          - models/supp_distil_roberta.ipynb
+          - models/supp_scatter.ipynb
           - models/supp_use.ipynb
