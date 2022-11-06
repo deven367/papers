@@ -6,3 +6,4 @@ website:
       - section: models
         contents:
           - models/supp_declutr.ipynb
+          - models/supp_use.ipynb
